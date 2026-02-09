@@ -1,11 +1,11 @@
 # 🚲 Bike Rental App (Django)
 
-A web-based Bike Rental Application built with Django that allows users to browse available bikes, make rental bookings, and manage rentals efficiently. This project demonstrates full-stack web development skills including user authentication, CRUD operations, and database management.
+A web-based Bike Rental Application built with Django that allows users to browse available bikes, view renters, and manage rental records. This project demonstrates full-stack web development skills including user authentication, CRUD operations, and database management.
 
 ## ✨ Features
-- User registration and login
-- Browse available bikes
-- Book and manage rentals
+- View available bikes
+- View list of renters
+- View rental records
 - Admin panel for bike and rental management
 - Responsive user interface
 
@@ -20,7 +20,8 @@ A web-based Bike Rental Application built with Django that allows users to brows
 Deployed on PythonAnywhere: [Bike Rental App Live Demo](https://223004690.pythonanywhere.com/BikeRentalApp/)
 
 ## 📌 Future Improvements
-- Online payment integration
+- Online booking functionality
+- Payment integration
 - Email notifications
 - User reviews and ratings
 - REST API for mobile app integration
