@@ -17,7 +17,7 @@ A web-based Bike Rental Application built with Django that allows users to brows
 - PythonAnywhere (deployment)
 
 ## 🌍 Live Demo
-Deployed on PythonAnywhere: [Bike Rental App Live Demo](https://223004690.pythonanywhere.com/BikeRentalApp/)
+Deployed on PythonAnywhere: [Bike Rental App Live Demo](https://223004690.pythonanywhere.com/)
 
 ## 📌 Future Improvements
 - Online payment integration
@@ -27,4 +27,4 @@ Deployed on PythonAnywhere: [Bike Rental App Live Demo](https://223004690.python
 
 ## 👤 Author
 **Tshegofatso Mohlala**  
-Live Demo: [PythonAnywhere](https://223004690.pythonanywhere.com/BikeRentalApp/)
+Live Demo: [PythonAnywhere](https://223004690.pythonanywhere.com/)
